@@ -1,0 +1,25 @@
+{
+    "floragato": {
+        "name": "floragato",
+        "id": 907,
+        "types": [
+            "grass"
+        ],
+        "abilities": [
+            "overgrow",
+            "protean"
+        ]
+    },
+    "persian": {
+        "name": "persian",
+        "id": 53,
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "limber",
+            "technician",
+            "unnerve"
+        ]
+    }
+}
